@@ -1,1 +1,1 @@
-# Image_Encryption_-for_DNA_cOMPUTING
+# Image_Encryption_-for_DNA_Computing
